@@ -1,0 +1,125 @@
+El R.I.I.P. (R.E.P.O. Interactive Information Page) es un proyecto creado por Jorge Makes
+Games y funciona como una página interactiva de información del juego
+R.E.P.O.
+@separator@
+El juego REPO se trata de ir a buscar objetos a un lugar abandonado para completar los 
+puntos de extracción y pagar la cuota a la misteriosa entidad del taxman.
+@separator@
+Pero el juego no es tan simple, en todos los lugares donde vas vas a 
+encontrar a enemigos que hacen que el juego sea más difícil y terrorífico.
+@separator@
+Enemigos:
+@separator@
+En el juego hay 19 enemigos (hasta ahora) y se dividen en 3 rangos, apropiadamente
+llamados rango 1, rango 2, y rango 3.
+@separator@
+Rango 1: Normalmente enemigos que no son mucho problema de lidiar y que sirven para 
+molestar más que nada.
+@separator@
+Animal: El animal es un enemigo que cuando te
+ve empieza a correr y molestar al jugador, no
+es muy peligroso pero puede destruir los
+objetos que has obtenido hasta entonces.
+@separator@
+Banger: Aparecen en grupos y su único propósito
+en la vida es destruirte junto a los objetos que
+has obtenido al explotar usando la dinamita en su
+cuerpo.
+@separator@
+Apex Predator: Se ve como un inocente pato que te
+sigue e intenta ponerse delante tuyo para poder
+ser acariciado, pero si uno comete el error de
+tocar al pato, el pato se vuelve loco y ataca
+al quien lo tocó.
+@separator@
+Gnome (Gnomo en inglés):  Aparecen en grupos y
+se encargan de destruir a tus objetos o a tí
+cuando te ven, lo que hay que hacer es tomarlos
+y lanzarlos contra el suelo para destruirlos.
+@separator@
+Peeper: Es un ojo que aparece en el techo y te
+obliga a verlo, lentamente matándote. La forma
+de derrotarlo es rompiendo la línea de vista y
+escondiéndote para que no te pueda ver si no te
+ve por un tiempo se va a ir solo.
+@separator@
+Rugrat: El Rugrat aparenta ser un bebé inocente
+pero es el hijo del demonio mismo, agarra tus
+objetos y los lanza para hacerte daño a tí, y a
+tus objetos, lo único que uno puede hacer es rezar.
+@separator@
+Shadow Child: Este enemigo te ataca si lo ves
+por mucho tiempo, así que no lo veas nomás.
+@separator@
+Spewer: Este enemigo vomita por tus objetos y
+se pone en tu cabeza haciendo que también vomites
+por tus objetos, una manera de lidiar con eso
+es simplemente poniéndose en cuarentena hasta
+que se vaya de tu cabeza.
+@separator@
+Upscream: Upscream es uno de los enemigos de
+rango 1 más peligrosos ya que te manda al aire
+y puede empujarte hacia un monstruo o un vacío.
+La manera de lidiar con él también es rezar.
+@separator@
+Rango 2: Son enemigos más poderosos que los primeros
+pero no hacen tanto en comparación con los de Rango 3.
+@separator@
+Bowtie: Es un enemigo bastante dócil que cuando te
+vé te intenta alejar usando su ataque de gritar y
+lanzar aire. Es difícil que te vea así que uno 
+debería solamente esconderse.
+@separator@
+Chef: El Chef es una rana que se lanza hacia el jugador
+que vé mientras intenta cortarte con sus cuchillas. La
+manera de lidiar con él es escondiéndose detrás de algún
+objeto sólido como una mesa o una pared.
+@separator@
+Clown (Payaso en inglés): es un enemigo que parece un payaso,
+su ataque es de un láser que siempre apunta a la cabeza, la
+manera de lidiar con su ataque es agachándose antes  que el
+láser te pegue.
+@separator@
+Hidden: Es un enemigo invisible que te agarra y te lleva lejos
+de las cosas, no es muy peligroso por sigo mismo ya que no hace
+nada de daño.
+@separator@
+Mentalist: Es un alien que usa su telekinesis para llevarte a los
+cielos y después te golpea contra el suelo, si tienes un compañero
+te puede sacar de su rango de telekinesis, pero si estás solo debes
+correr.
+@separator@
+Reaper: Una espantapájaros que se lanza en contra de tí cuando te ve,
+no hay muchas maneras de lidiar con ella, por ende uno debe esconderse
+bien nomás.
+@separator@
+Rango 3: Son los enemigos más poderosos y peligrosos.
+@separator@
+Headman: Una cabeza voladora que muerde a todos los que ve. Puede volar
+así que no hay muchas maneras de lidiar con él además de esconderse.
+@separator@
+Huntsman: Es un hombre ciego con una escopeta, dispara a quien escucha.
+Agacharse y mantener silencio es la mejor manera de lidiar con el.
+@separator@
+Robe: Es una entidad misteriosa que se vuelve más rapida cuando
+ves su cara. Para escapar uno simplemente tiene que dejar de 
+mirarla y eso la volverá más lenta que tú.
+@separator@
+Trudge: El enemigo más grande, él te golpea con su martillo
+cuando te ve, pero no es muy inteligente y uno puede ir
+alrededor de él sin que se de cuenta.
+@separator@
+Gracias por leer 
+@separator@
+ ## ##
+#   #   #
+#   #   #
+ #      #
+  #    #
+    ##
+@separator@
+
+// NO INCLUIR /**************************************************************************************************************************************/
+
+soy el javi y me encanta el repo y el futbol y el jorge es mi mejor amigo :)
+soy el veyre y mi mejor amigo es el chat gpt
